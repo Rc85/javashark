@@ -14,9 +14,6 @@ import org.jnetpcap.util.PcapPacketArrayList;
 import java.sql.Time;
 import java.util.ArrayList;
 
-/**
- * Created by roger85 on 3/22/2017.
- */
 public class PcapParser {
 
     public PcapPacketArrayList runPcapParser(String filename) {
